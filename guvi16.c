@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(void)
+void main()
 {
   int i,j,lower,upper;
   int b=0;
@@ -16,5 +16,4 @@ int main(void)
     if (i==j)
     printf("\n%d",j);
   }
-return 0;
 }
